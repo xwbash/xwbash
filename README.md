@@ -1,5 +1,10 @@
 ### Hi, I'm Yigit. <img src="https://media.tenor.com/images/486428053d6e3f90a4b2251ee5f82f56/tenor.gif" height="40" width="50" style="margin: 1px"> 
 
+<p><em>19 Yrs old programmer/indie game developer.</em> </br> 
+
+
+
+### <img src="https://toppng.com/uploads/preview/yan-cat-practice-vector-by-cheesefaceman1-on-deviantart-nyan-cat-emoji-gif-11563236761nimgongmvn.png" width="50"> A little more about me..  
 ```python
 class Skills:
     def OfProgramming(Number):
