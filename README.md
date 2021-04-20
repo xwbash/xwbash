@@ -15,7 +15,7 @@ class Skills:
             "3":"C++",
             "4":"SQL",
             "5":"PHP",
-            "6":"HTML+CSS"
+            "6":"C"
         }
         return show[Number]
     def OfLibrarys(Number):
