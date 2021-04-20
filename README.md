@@ -3,6 +3,7 @@
 <p><em>19 Yrs old programmer/indie game developer nothing much about me i just love coding.</em> </br>  
 [![GitHub Bash](https://img.shields.io/github/followers/xwbash?style=social)](https://github.com/xwbash)
 
+
 [![Youtube Bash](https://img.shields.io/youtube/channel/subscribers/UC10SomBYsuYoptbwDKFSwUw?style=social)](https://www.youtube.com/channel/UC10SomBYsuYoptbwDKFSwUw)
 
 
