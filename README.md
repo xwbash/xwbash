@@ -45,6 +45,7 @@ class Skills:
         }
         return show[Number]
 print(Skills.OfProgramming("3"))
+print("I am dumb")
 
 ```
 
