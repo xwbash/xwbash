@@ -4,7 +4,7 @@
 
 
 
-### <img src="https://toppng.com/uploads/preview/yan-cat-practice-vector-by-cheesefaceman1-on-deviantart-nyan-cat-emoji-gif-11563236761nimgongmvn.png" width="50"> A little more about me..  
+### <img src="https://i.imgur.com/fBU9vrh.png" width="50"> A little more about me..  
 ```python
 class Skills:
     def OfProgramming(Number):
