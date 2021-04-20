@@ -2,7 +2,7 @@
 
 <p><em>19 Yrs old programmer/indie game developer nothing much about me i just love coding.</em> </br>
 
-[![Youtube Bash](https://img.shields.io/github/followers/xwbash?style=social)](https://github.com/xwbash) [![Youtube Bash](https://img.shields.io/youtube/channel/subscribers/UC10SomBYsuYoptbwDKFSwUw?style=social)](https://www.youtube.com/channel/UC10SomBYsuYoptbwDKFSwUw) [![Generic badge](https://img.shields.io/badge/Game-Developing-red.svg)](https://shields.io/)<br>
+[![Youtube Bash](https://img.shields.io/github/followers/xwbash?style=social)](https://github.com/xwbash) [![Youtube Bash](https://img.shields.io/youtube/channel/subscribers/UC10SomBYsuYoptbwDKFSwUw?style=social)](https://www.youtube.com/channel/UC10SomBYsuYoptbwDKFSwUw)     [![Generic badge](https://img.shields.io/badge/Game-Developing-red.svg)](https://shields.io/)<br>
 
 
 ### <img src="https://i.imgur.com/fBU9vrh.png" width="50"> A little more about me..  
