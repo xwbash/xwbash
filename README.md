@@ -1,11 +1,12 @@
+<div align="center">
 ### Hi, I'm Yigit. <img src="https://media.tenor.com/images/486428053d6e3f90a4b2251ee5f82f56/tenor.gif" height="40" width="50" style="margin: 1px"> 
 
-<p><em>19 Yrs old programmer/indie game developer nothing much about me i just love coding.</em> </br>
+<p><em>19 Yrs old programmer/indie game developer.</em> </br> 
 
-[![Youtube Bash](https://img.shields.io/github/followers/xwbash?style=social)](https://github.com/xwbash) [![Youtube Bash](https://img.shields.io/youtube/channel/subscribers/UC10SomBYsuYoptbwDKFSwUw?style=social)](https://www.youtube.com/channel/UC10SomBYsuYoptbwDKFSwUw)     [![Generic badge](https://img.shields.io/badge/Game-Developing-red.svg)](https://shields.io/)<br>
 
 
 ### <img src="https://i.imgur.com/fBU9vrh.png" width="50"> A little more about me..  
+
 ```python
 class Skills:
     def OfProgramming(Number):
@@ -47,5 +48,5 @@ class Skills:
 print(Skills.OfProgramming("3"))
 
 ```
-
+</div>
 
