@@ -4,7 +4,7 @@
 [![GitHub Bash](https://img.shields.io/github/followers/xwbash?style=social)](https://github.com/xwbash)]
 
 
-[![Youtube Bash](https://img.shields.io/youtube/channel/subscribers/UC10SomBYsuYoptbwDKFSwUw?style=social)](https://www.youtube.com/channel/UC10SomBYsuYoptbwDKFSwUw)
+[![Youtubeasdasd Bash](https://img.shields.io/youtube/channel/subscribers/UC10SomBYsuYoptbwDKFSwUw?style=social)](https://www.youtube.com/channel/UC10SomBYsuYoptbwDKFSwUw)
 
 
 
