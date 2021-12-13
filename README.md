@@ -15,10 +15,9 @@ class Skills:
             "3":"C++",
             "4":"SQL",
             "5":"PHP",
-            "7":"CSS"
-            "6":"C"
-            "6":"HTML"
-            "6":"MYSQL"
+            "6":"CSS"
+            "7":"HTML"
+            "8":"MYSQL"
         }
         return show[Number]
     def OfLibrarys(Number):
