@@ -1,54 +1,73 @@
-### Hi, I'm Yigit. <img src="https://media.tenor.com/images/486428053d6e3f90a4b2251ee5f82f56/tenor.gif" height="40" width="50" style="margin: 1px"> 
+<h2> Hello there, I'm Yigit. <img src="https://media.tenor.com/images/486428053d6e3f90a4b2251ee5f82f56/tenor.gif" height="40" width="50" style="margin: 1px"> </h2>
 
-<p><em>20 Yrs old developer/game developer nothing much about me i just love coding.</em> </br>
+<p><em>Game developer nothing much about me i just love coding.</em> </br>
 
-[![Youtube Bash](https://img.shields.io/github/followers/xwbash?style=social)](https://github.com/xwbash) [![Youtube Bash](https://img.shields.io/youtube/channel/subscribers/UC10SomBYsuYoptbwDKFSwUw?style=social)](https://www.youtube.com/channel/UC10SomBYsuYoptbwDKFSwUw)     [![Generic badge](https://img.shields.io/badge/Game-Developing-red.svg)](https://shields.io/)<br>
+<img align="right" src="2zUn8hAwJwG4abiS0p.webp" width='150'/> 
 
-[![Youtube Bash](https://github-readme-stats.vercel.app/api?username=xwbash)](https://github.com/xwbash)
-### <img src="https://i.imgur.com/fBU9vrh.png" width="50"> A little more about me..  
-```python
-class Skills:
-    def OfProgramming(Number):
-        show = {
-            "1":"Python",
-            "2":"C#",
-            "3":"C++",
-            "4":"SQL",
-            "5":"PHP",
-            "6":"CSS"
-            "7":"HTML"
-            "8":"MYSQL"
-        }
-        return show[Number]
-    def OfLibrarys(Number):
-        show ={
-            "1":"SFML",
-            "2":"OpenCV",
-            "3":"SpeechRecognition"
-        }
-        return show[Number]
-    def OfComputer(Number):
-        show = {
-            "1":"AfterEffects",
-            "2":"Unity",
-            "3":"Blender",
-            "4":"CiscoPacketTracer",
-            "5":"VegasPro"
-        }
-        return show[Number]
-    def OfOperationSystem(Number):
-        show = {
-            "1":"Windows 2008 R2",
-            "2":"Parrot Security OS",
-            "3":"Kali Linux",
-            "4":"Ubuntu",
-            "5":"Fedora"
-            #ETC.
-        }
-        return show[Number]
-print(Skills.OfProgramming("3"))
-print("I am dumb")
+[ ![LinkedIn](https://img.shields.io/badge/LinkedIn-4682B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yigitaydn) [![YouTube](https://img.shields.io/badge/YouTube-B22222?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@gelistiriciningozunden)
 
-```
+Hello, I'm Yiğit. I've been interested in computers since I was 13-14 years old, and I've been in the industry since I was 18-19. My journey in game development began with Unity, and for over 1-1.5 years, I worked on casual projects, but currently, I'm developing playable advertisements in Unity and CocosCreator. I enjoy developing with Shader Graph, Editor Tools and Modular Systems. Additionally, I can use advanced tools like After Effects and Blender3D. I've developed various applications for Windows and Linux, which has given me knowledge in Python, C#, C++, and some TypeScript.
 
 
+## 👨‍💻 Professional Skills
+
+-  **Language:**  C#, C++, TypeScript, Python.
+-  **Game Engines:**  Unity, Cocos Creator, Unreal Engine and Cocos2D-X (non-engine framework)
+-  **Other Programs:**  After Effects, Blender3D, SQL Management Studio.
+-  **Operation Systems:** Windows XP-11, Windows 2008-2012 R2, Kali Linux, Parrot Security OS.
+
+## 🎓 Experience 
+
+- Ruby Games Studio - 2 Years (Game Developer - Playable Ads Creator - Marketing Developer)
+- Uncosoft - 6 Months (Game Developer)
+- WeBold Creative - 6 Months (Lead Motion Designer)
+- Zero Density - 1 Year, 1 Month (IT, IT Traniee)
+
+## 💻 Newly Projects.
+
+My newly projects (not so much)
+
+<table>
+  <tbody>
+	<tr>
+      <td><a href="https://github.com/xwbash/MetroHorrorGame"><b>🚇 Metro Horror Game</b></a></td>
+      <td>My personal project i created in Unity.</td>
+    </tr>
+    </tr>
+	  <tr>
+      <td><a href="https://github.com/xwbash/HunterAssassin-Tiled"><b>🥷 Tiled System HA1 in Cocos2DX</b></a></td>
+      <td>Tiled system i created for Hunter Assassin 1</td>
+    </tr>
+    </tr>
+	  <tr>
+      <td><a href="https://github.com/xwbash/Shine-Effect-UI-Unity"><b>✨ Shine Effect Shader</b></a></td>
+      <td>This is just basic Unity shader.</td>
+    </tr>
+  </tbody>
+</table>
+
+
+## 🌌 Open Source Projects
+
+These projects were built upon a very poor system, lacking in SOLID principles and far from object-oriented programming. They were developed during my education and exhibit a writing style devoid of SOLID principles and OOP.
+
+<table>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/xwbash/thebase"><b>🚀 PHP MySQL Admin System</b></a></td>
+      <td>This project stands out from the others because I coded it using PHP, MySQL, HTML, and CSS. It's not a responsive website, but it can perform all functions. I learned the languages and wrote the entire program in 4 days.</td>
+    </tr>
+	  <tr>
+      <td><a href="https://github.com/xwbash/PM"><b>🧑‍🎓 Student and Teacher Managment System</b></a></td>
+      <td>This program is an advanced system for managing student and teacher accounts, including login and signup functionalities.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/xwbash/Silverback-Application"><b>🦍 Silverback Databased Application</b></a></td>
+      <td>The project utilizes Go, Kubernetes, RabbitMQ, MongoDB, Postgres, and a microservices architecture.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/xwbash/system-a"><b>🚑 System-A</b></a></td>
+      <td>This project was developed by me specifically for children with learning disabilities. It utilizes C# and Python programming languages. The libraries used include haarcascades, cryptology, OpenCV, and SMTP.</td>
+    </tr>
+  </tbody>
+</table>
