@@ -31,6 +31,11 @@ My newly projects (not so much)
 <table>
   <tbody>
 	<tr>
+      <td><a href="https://github.com/xwbash/Rogue-Like-gAME"><b>⚔️ Rogue Like Game</b></a></td>
+      <td>Mobile game project created with VContainer in Unity.</td>
+    </tr>
+    </tr>
+	<tr>
       <td><a href="https://github.com/xwbash/MetroHorrorGame"><b>🚇 Metro Horror Game</b></a></td>
       <td>My personal project i created in Unity.</td>
     </tr>
