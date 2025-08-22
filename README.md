@@ -17,8 +17,8 @@ Hello, I'm Yiğit. I've been interested in computers since I was 13-14 years old
 -  **Operation Systems:** Windows XP-11, Windows 2008-2012 R2, Kali Linux, Parrot Security OS.
 
 ## 🎓 Experience 
-
-- Rune Games - 4 Months - Currently (Game Developer)
+- Voodoo - 8 Months - Currently - (Playable Developer)
+- Rune Games - 10 Months - (Game Developer)
 - Ruby Games Studio - 2 Years (Game Developer - Playable Ads Creator - Marketing Developer)
 - Uncosoft - 6 Months (Game Developer)
 - WeBold Creative - 6 Months (Lead Motion Designer)
