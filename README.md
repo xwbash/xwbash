@@ -17,7 +17,7 @@ Hello, I'm Yiğit. I've been interested in computers since I was 13-14 years old
 -  **Operation Systems:** Windows XP-11, Windows 2008-2012 R2, Kali Linux, Parrot Security OS.
 
 ## 🎓 Experience 
-- Ela Game Studio - 1 Months - Currently - (Playable Developer - Marketing Developer)
+- Ela Game Studio - 7 Months - Currently - (Playable Developer - Marketing Developer)
 - Voodoo - 8 Months - (Playable Developer)
 - Rune Games - 10 Months - (Game Developer)
 - Ruby Games Studio - 2 Years (Game Developer - Playable Ads Creator - Marketing Developer)
