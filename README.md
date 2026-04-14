@@ -6,7 +6,7 @@
 
 [ ![LinkedIn](https://img.shields.io/badge/LinkedIn-4682B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yigitaydn) [![YouTube](https://img.shields.io/badge/YouTube-B22222?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@gelistiriciningozunden)
 
-Hello, I'm Yiğit. I've been interested in computers since I was 13-14 years old, and I've been in the industry since I was 18-19. My journey in game development began with Unity, and for over 1-1.5 years, I worked on casual projects, but currently, I'm developing playable advertisements in Unity and CocosCreator. I enjoy developing with Shader Graph, Editor Tools and Modular Systems. Additionally, I can use advanced tools like After Effects and Blender3D. I've developed various applications for Windows and Linux, which has given me knowledge in Python, C#, C++, and some TypeScript.
+Hello, I'm Yiğit. I've been interested in computers since I was 13-14 years old, and I've been in the industry since I was 18-19. My journey in game development began with Unity, and for over 4-4.5 years, I worked on casual projects, but currently, I'm developing playable advertisements in Unity and CocosCreator. I enjoy developing with Shader Graph, Editor Tools and Modular Systems. Additionally, I can use advanced tools like After Effects and Blender3D. I've developed various applications for Windows and Linux, which has given me knowledge in Python, C#, C++, and some TypeScript.
 
 
 ## 👨‍💻 Professional Skills
