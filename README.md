@@ -18,8 +18,8 @@ Hello, I'm Yiğit. I've been interested in computers since I was 13-14 years old
 
 ## 🎓 Experience 
 - Ela Game Studio - 9 Months - (Senior Generalist)
-- Voodoo - 8 Months - (Playable Developer)
-- Rune Games - 10 Months - (Game Developer - Tech Artist)
+- Voodoo - 10 Months - (Playable Developer)
+- Rune Games - 8 Months - (Game Developer - Tech Artist)
 - Ruby Games Studio - 2 Years (Game Developer - Playable Ads Creator - Marketing Developer)
 - Uncosoft - 6 Months (Game Developer)
 - WeBold Creative - 6 Months (Lead Motion Designer)
